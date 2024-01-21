@@ -164,6 +164,7 @@ app.post('/mark-incomplete', (req, res) => {
 
 // Start the server
 app.listen(port, () => {
+    console.log(`--------------------`);
     console.log(`The Tour De L'Unknown Crash Nav is running at http://localhost:${port}`);
-    console.log(`Keep this window open when using the Crash Nav and use CTRL+C to close the window & stop the server.`)
+    console.log(`Keep this window open or minimized when using the Crash Nav. Use CTRL+C to close the window and stop the server.`)
 });
