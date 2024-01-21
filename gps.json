@@ -1,0 +1,102 @@
+[
+  {
+    "Name": "Heavy Rivalry",
+    "TracksAndDirections": [
+      "Lakeside Getaway Southbound",
+      "Kings of the Road Westbound",
+      "Mountain Parkway Eastbound",
+      "Frozen Peak Northbound",
+      "Alpine Expressway Westbound",
+      "Coastal Dream Northbound",
+      "Continental Run Eastbound",
+      "Tropical Drive Eastbound"
+    ],
+    "CheatConfig": [
+      "Custom Lap Number should be ENABLED or set to 1",
+      "Partial Mirror Mode should be DISABLED",
+      "Instant Damage Critical being disabled is recommended",
+      "Max Infinite Boost should be DISABLED"
+    ],
+    "LapNumber": "1 for marathon tracks and N/A for sprint tracks",
+    "RivalVehicles": "5 OF THE FOLLOWING: 1 Heavy Pick-Up, 1 4WD Racer, 1 SUV Deluxe, 1 4WD Heavy Duty, 1 B-Team Van, 1 Delivery Truck",
+    "YourVehicle": "1 of the 6 vehicles listed above, specifically the one you didn't select as one of your rivals",
+    "WinCondition": "1st Place",
+    "Completed": "No",
+    "id": 145
+  },
+  {
+    "Name": "Tyrannical Titans",
+    "TracksAndDirections": [
+      "Lakeside Getaway Northbound",
+      "Kings of the Road Eastbound",
+      "Mountain Parkway Westbound",
+      "Frozen Peak Southbound",
+      "Alpine Expressway Eastbound",
+      "Coastal Dream Southbound",
+      "Continental Run Westbound",
+      "Tropical Drive Westbound"
+    ],
+    "CheatConfig": [
+      "Custom Lap Number should be ENABLED or set to 1",
+      "Partial Mirror Mode should be DISABLED",
+      "Instant Damage Critical being disabled is recommended",
+      "Max Infinite Boost should be DISABLED"
+    ],
+    "LapNumber": "1 for marathon tracks and N/A for sprint tracks",
+    "RivalVehicles": "1 Tractor Cab, 1 Longnose Cab, 1 City Bus, 1 Trash Truck, 1 Firetruck",
+    "YourVehicle": "1 of the 5 vehicles listed above",
+    "WinCondition": "1st Place",
+    "Completed": "No",
+    "id": 146
+  },
+  {
+    "Name": "Inonic Ignition",
+    "TracksAndDirections": [
+      "Lakeside Getaway Southbound M",
+      "Kings of the Road Westbound M",
+      "Mountain Parkway Eastbound M",
+      "Frozen Peak Northbound M",
+      "Alpine Expressway Westbound M",
+      "Coastal Dream Northbound M",
+      "Continental Run Eastbound M",
+      "Tropical Drive Eastbound M"
+    ],
+    "CheatConfig": [
+      "Custom Lap Number should be DISABLED",
+      "Partial Mirror Mode should be ENABLED",
+      "Instant Damage Critical being disabled is recommended",
+      "Max Infinite Boost should be DISABLED"
+    ],
+    "LapNumber": "2 for marathon tracks and N/A for sprint tracks",
+    "RivalVehicles": "5 Supers",
+    "YourVehicle": "Custom Coupe Ultimate",
+    "WinCondition": "1st Place",
+    "Completed": "No",
+    "id": 147
+  },
+  {
+    "Name": "F1 Endgame",
+    "TracksAndDirections": [
+      "Lakeside Getaway Northbound M",
+      "Kings of the Road Eastbound M",
+      "Mountain Parkway Westbound M",
+      "Frozen Peak Southbound M",
+      "Alpine Expressway Eastbound M",
+      "Coastal Dream Southbound M",
+      "Continental Run Westbound M",
+      "Tropical Drive Westbound M"
+    ],
+    "CheatConfig": [
+      "Custom Lap Number should be DISABLED",
+      "Partial Mirror Mode should be ENABLED",
+      "Instant Damage Critical being disabled is recommended",
+      "Max Infinite Boost should be DISABLED"
+    ],
+    "LapNumber": "2 for marathon tracks and N/A for sprint tracks",
+    "RivalVehicles": "5 World Circuit Racers (To easily keep track, make sure you use 5 unique colours! Use the base three plus the two road rage colours)",
+    "YourVehicle": "Modified Sports",
+    "WinCondition": "1st Place",
+    "Completed": "No",
+    "id": 148
+  }
+]
