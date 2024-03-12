@@ -1,7 +1,7 @@
 # [View the Tour De L'Unknown README Here](https://docs.google.com/document/d/101Dcee0LFsKS1wRV5NcL41J8eDFsVkxpyYlwV-kghn8/edit?usp=sharing)
 
 # Tour De L'Unknown Credits 
-[Click here to watch the credits in video form!]()
+[Click here to watch the credits in video form!](https://youtu.be/wI2hfSWO8HM)
 ## Burnout Community Shoutouts
 ### Cheat Authors
 - [Aero_ / AeroWidescreen](https://github.com/AeroWidescreen)
