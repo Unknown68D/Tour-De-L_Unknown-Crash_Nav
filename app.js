@@ -162,6 +162,19 @@ app.post('/mark-incomplete', (req, res) => {
     }
 });
 
+app.get('/reset', (req, res) => {
+    eventsData = JSON.parse(fs.readFileSync('events.json', 'utf8'));
+    gpsData = JSON.parse(fs.readFileSync('gps.json', 'utf8'))
+
+    for (currentEvent of eventsData) currentEvent.Completed = 'No';
+    for (currentGP of gpsData) currentGP.Completed = 'No';
+
+    fs.writeFileSync('events.json', JSON.stringify(eventsData, null, 2));
+    fs.writeFileSync('gps.json', JSON.stringify(gpsData, null, 2));
+
+    res.redirect('/');
+})
+
 // Start the server
 app.listen(port, () => {
     console.log(`--------------------`);

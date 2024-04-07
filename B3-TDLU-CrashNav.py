@@ -1,3 +1,3 @@
 import os
-os.system("npm install")
+os.system("npm upgrade")
 os.system("npm start")
